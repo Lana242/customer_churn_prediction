@@ -29,16 +29,13 @@ Data cleaning ---> building models ---> evaluating our models ---> choosing the 
 
 <img width="1392" height="951" alt="image" src="https://github.com/user-attachments/assets/6736d2ab-ed56-4954-80af-cb3c63a1a10d" />
 
-	model	accuracy	precision	recall	f1_score
-0	Neural Network	0.791045	0.648438	0.610294	0.628788
-1	Logistic Regression	0.793177	0.674627	0.553922	0.608345
-2	Random Forest	0.776830	0.653595	0.490196	0.560224
-3	XGBoost	0.781095	0.656250	0.514706	0.576923
+	<img width="1280" height="458" alt="image" src="https://github.com/user-attachments/assets/c4b880e6-7029-479d-9b8b-2e6653a11634" />
+
 
 so as you can in this case our best model is Logistic Regression
 
-	1
-model	Logistic Regression
+	![Uploading image.png…]()
+
 accuracy	0.793177
 precision	0.674627
 recall	0.553922
