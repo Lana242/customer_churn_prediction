@@ -29,17 +29,12 @@ Data cleaning ---> building models ---> evaluating our models ---> choosing the 
 
 <img width="1392" height="951" alt="image" src="https://github.com/user-attachments/assets/6736d2ab-ed56-4954-80af-cb3c63a1a10d" />
 
-	<img width="1280" height="458" alt="image" src="https://github.com/user-attachments/assets/4ac48e3c-28a7-4097-8129-ef0e47e456f1" />
+
+![ev](https://github.com/user-attachments/assets/215ec98e-1a58-4ec0-a19e-a1d1970eea7c)
 
 
 so as you can in this case our best model is Logistic Regression
 
-	<img width="1280" height="994" alt="image" src="https://github.com/user-attachments/assets/fb95137d-af78-4904-8233-1649ee4440cd" />
 
-
-accuracy	0.793177
-precision	0.674627
-recall	0.553922
-f1_score	0.608345
-
+![res](https://github.com/user-attachments/assets/94238b14-2996-48ed-865c-da4f10321b2d)
 
