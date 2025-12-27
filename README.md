@@ -29,12 +29,5 @@ Data cleaning ---> building models ---> evaluating our models ---> choosing the 
 
 <img width="1392" height="951" alt="image" src="https://github.com/user-attachments/assets/6736d2ab-ed56-4954-80af-cb3c63a1a10d" />
 
-
-![ev](https://github.com/user-attachments/assets/215ec98e-1a58-4ec0-a19e-a1d1970eea7c)
-
-
-so as you can in this case our best model is Logistic Regression
-
-
-![res](https://github.com/user-attachments/assets/94238b14-2996-48ed-865c-da4f10321b2d)
+and after evaluation and testing we could figure out how the best model for predicting customer churn is Logistic Regression algorithm
 
